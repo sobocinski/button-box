@@ -1,7 +1,7 @@
 # Fullthrottle Button Box
 Simracing button box on Teensy 3.2 (Arduino)
 
-![DIY simracing button box](https://raw.githubusercontent.com/sobocinski/button-box/master/button_box_image.jpg)
+![DIY Full Throttle simracing button box](https://raw.githubusercontent.com/sobocinski/button-box/master/button_box_image.jpg)
 
 This is the source code of the button box made on the Teensa 3.2 (Arduino), the SimHub software is used for the LCD display.
 * 27 functional buttons,
